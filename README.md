@@ -26,7 +26,7 @@
 - [Introducción](#introducción)
 - [Objetivos](#objetivos)
 - [Requisitos previos](#requisitos-previos)
-- [Instalación de herramientas](#instalación-de-herramientas-previas)
+- [Herramientas disponibles para el uso del robot](#herramientas-disponibles-para-el-uso-del-robot)
   - [1. Doxygen](#1-api-doxygen)
   - [2. ROS](#2-ros)
 - [Caracteristicas Robot Kobuki](#características-robot-kobuki)
