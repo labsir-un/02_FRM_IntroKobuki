@@ -51,10 +51,14 @@ El desarrollo del software se realiza en un IDE (Integrated Development Environm
 - Verificar el correcto funcionamiento y la correcta adquisición de datos de los sensores de contacto, caída, giroscopio y encoders del robot Kobuki..
 ---
 
+
 ## Requisitos
 
-- Tener conexión a internet.
-- Robot Kobuki.
+- Contar con conexión a internet.
+
+- Disponer de un robot Kobuki.
+
+- Tener instalado el sistema ROS (Robot Operating System).
 
 ---
 
