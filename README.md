@@ -26,7 +26,7 @@
 - [Introducción](#introducción)
 - [Objetivos](#objetivos)
 - [Requisitos previos](#requisitos-previos)
-- [Instalación de herramientas previas](#instalación-de-herramientas-previas)
+- [Instalación de herramientas](#instalación-de-herramientas-previas)
   - [1. Doxygen](#1-api-doxygen)
   - [2. ROS](#2-ros)
 - [Caracteristicas Robot Kobuki](#características-robot-kobuki)
@@ -62,7 +62,7 @@ El desarrollo del software se realiza en un IDE (Integrated Development Environm
 
 ---
 
-## Instalaciones de herramientas
+## Herramientas disponibles para el uso del robot
 
 ### 1. Doxygen
 Doxygen es una herramienta utilizada para documentar la API, permitiendo conocer las funciones disponibles para el control del robot. Para hacer uso de estas funciones, es necesario contar con conocimientos de programación en C++. En el siguiente enlace se encontrará la información para usar la API:
